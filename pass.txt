@@ -1,8 +1,11 @@
+AKIATFBMPO425WAHJD6L
+GFOhmOjDoNp3deASK8IQ2qAFxVr8tyw7lgffbSLx
+
+
 sanchitgg2005
 Pb3GGzAjDrcPlPBR
 mongodb+srv://sanchitgg2005:Pb3GGzAjDrcPlPBR@cluster0.5pwaq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-
+$env:MONGODB_URL = ""
 1. Create project template by executing template.py file
 2. Write the code on setup.py and pyproject.toml file to import local packages
    >> Find more about "setup.py and pyproject.toml" at crashcourse.txt
@@ -68,15 +71,15 @@ mongodb+srv://sanchitgg2005:Pb3GGzAjDrcPlPBR@cluster0.5pwaq.mongodb.net/?retryWr
       * Set env variables with above csv values using below method:
       ====================================================================================
          >> Set env var from bash terminal: <<
-         export AWS_ACCESS_KEY_ID="AWS_ACCESS_KEY_ID"
-         export AWS_SECRET_ACCESS_KEY="AWS_SECRET_ACCESS_KEY"
+         export AWS_ACCESS_KEY_ID="AKIATFBMPO425WAHJD6L"
+         export AWS_SECRET_ACCESS_KEY="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"
          >> Check env var from bash terminal: <<
          echo $AWS_ACCESS_KEY_ID
          echo $AWS_SECRET_ACCESS_KEY
 
          >> Set env var from powershell terminal: <<
-         $env:AWS_ACCESS_KEY_ID="AWS_ACCESS_KEY_ID"
-         $env:AWS_SECRET_ACCESS_KEY="AWS_SECRET_ACCESS_KEY"
+         $env:AWS_ACCESS_KEY_ID="AKIATFBMPO425WAHJD6L"
+         $env:AWS_SECRET_ACCESS_KEY="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"
          >> Check env var from powershell terminal: <<
          echo $env:AWS_ACCESS_KEY_ID
          echo $env:AWS_SECRET_ACCESS_KEY
