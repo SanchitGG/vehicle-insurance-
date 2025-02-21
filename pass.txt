@@ -1,5 +1,7 @@
 AKIATFBMPO425WAHJD6L
 GFOhmOjDoNp3deASK8IQ2qAFxVr8tyw7lgffbSLx
+vehicle_firstone
+216989136693.dkr.ecr.us-east-1.amazonaws.com/vehicle_firstone
 
 
 sanchitgg2005
